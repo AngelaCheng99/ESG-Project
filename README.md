@@ -1,26 +1,37 @@
 # ESG-Project
 
-# Table of Contents
-[Research](
-- [Idea 1: Key Targets & Metrics](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#idea-1-look-for-key-targets-and-metrics)
-- [Idea 2: ESG Wordlist](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#idea-2-look-for-esg-wordlist-as-described-in-this-research)
+## Table of Contents
 
+Database/Draft Reports
+- [BLK](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#blackrock)
+- [SSB](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#state-street)
+- [JPM](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#jp-morgan)
+- [BNYM](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#bny-mellon)
+- [Citi](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#citi)
+
+[Wk1 May 27th Research](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#research)
+- [Idea 1: Key Targets & Metrics](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#idea-1-look-for-key-targets--metrics)
+- [Idea 2: ESG Wordlist](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#idea-2-look-for-esg-wordlist-as-described-in-this-research)
+- [BLK Reports]
+- [SSB Reports]
+- [JPM Reports]
+- [BNYM Reports]
 
  
-## Research
+## Wk1 (May 27th) Research
 
 ### Idea 1: Look for Key Targets & Metrics
 
-Recurring themes: 
-- GRI ([Global Reporting Index](https://www.globalreporting.org/how-to-use-the-gri-standards/gri-standards-english-language/)
+**Recurring themes:** 
+- GRI ([Global Reporting Index](https://www.globalreporting.org/how-to-use-the-gri-standards/gri-standards-english-language/))
 - TCFD ([Task Force on Climate-related Financial Disclosures](https://www.fsb-tcfd.org/)) Metrics and Targets
 - Link to SDG ([Sustainable Development Goals](https://sdgs.un.org/))
 - SASB ([Sustainability Accounting Standards Board](https://www.sasb.org/))
 
-Pros: 
+**PROs**
 - Align with goal-tracknig purpose/principle in work
 
-Cons: 
+**CONs**
 - Hard to standardize across providers (fragemented pieces). Might as well read the pdf.
 - The only thing which is more standardized is reporting on E (Environment). TCFD Metrics and Targets are the closest with some stats available for comparison between providers. But if looking for this specifically, then might as well search in the pdf (no need for python) 
 - Example standardized stats: fund exposure, carbon/emission footprint
@@ -30,7 +41,7 @@ Would be interesting to identify what are the common stats available across prov
 - Compare the goals with each other to see if they are similar
 - Challenging: some providers give ad hoc stats and do not publish progress on the goals using numbers (more using text) and can change stats reported from year to year (lack of consistency)
 
-**BlackRock**
+#### **BLACKROCK**
 
 [BLK 2020 TCFD Report](https://www.blackrock.com/corporate/literature/continuous-disclosure-and-important-information/blk2020tcfdreport.pdf)
 
@@ -42,7 +53,9 @@ Would be interesting to identify what are the common stats available across prov
 
 [BLK 2021 ESG Report] Not yet available
 
-**State Street**\
+
+#### **STATE STREET**
+
 [SSB 2020 ESG Report](https://www.statestreet.com/content/dam/statestreet/documents/values/state-street-esg-report-04-2021.pdf)
 - p19 Summary of all ESG metrics (2020 progress, 2021 goals)
 - p153 TCFD (p170 onwards GHG emission table)
@@ -52,14 +65,16 @@ Would be interesting to identify what are the common stats available across prov
 - p51 Diversity goals
 - p155 energy use/TCFD reporting tables
 
-**BNY Mellon**\
+#### **BNY MELLON**
+
 [BNYM 2020 ESG Report](https://www.bnymellon.com/content/dam/bnymellon/documents/pdf/2020-enterprise-esg-report.pdf.coredownload.pdf)
 - High-level progress (p11). Specifics are covered in KPI Textboxes throughout the report
 - Environmental sustainability/emission specifically (p73)
 
 [BNYM 2021 ESG Report] Likely to be released in June
 
-**JP Morgan**\
+#### **JP MORGAN**
+
 [JP Morgan 2020 ESG Report Appendices](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/documents/jpmc-esg-report-appendices-2020.pdf) This document gives indiciations on where to find metrics/targets in the main ESG Reprt (p14)
 
 [JP Morgan 2020 ESG Main Report](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/documents/jpmc-esg-report-2020.pdf)
@@ -72,7 +87,8 @@ Would be interesting to identify what are the common stats available across prov
 [JP Morgan 2021 ESG Main Report](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/documents/jpmc-esg-report-2021.pdf)
 - Detailed TCFD Reporting to be released later in the year (p13)
 
-**Citi**\
+#### **CITI**
+
 [Citi 2020 TCFD Report](https://www.citigroup.com/citi/sustainability/data/finance-for-a-climate-resilient-future-2.pdf?ieNocache=229) (P47-55)
 
 [Citi 2020 ESG Main Report](https://www.citigroup.com/citi/about/esg/download/2020/Global-ESG-Report-2020.pdf?ieNocache=291) Relevant sections include:
@@ -87,10 +103,10 @@ Citi 2021 TCFD Report is not available (only 2021 and 2018)
 
 Literature inspiration: [Environmental, social and governance reporting in annual reports: A textual analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/fmii.12132)
 
-Pro: more suitable for python code (something which is definitely people cannot do - too tedious)
-Cons: not really goal tracking. Companies who talk more about ESG may or may not necessarily complete/realize their goals.
+**PROs**: more suitable for python code (something which is definitely people cannot do - too tedious)
+**CONs**: not really goal tracking. Companies who talk more about ESG may or may not necessarily complete/realize their goals.
 
-**Process**
+**PROCESS**
 1. Look at main vocab based on 4 ESG reports. Visualize wordcloud ("junk" words expected) 
 2. Come up with a ESG wordlist/Cross reference my ESG wordlist with what's in the literature. 
 3. Get a score for each bank after searching for the ESG wordlist 
