@@ -3,11 +3,11 @@
 ## Table of Contents
 
 ## [Database/Draft Reports](https://github.com/AngelaCheng99/ESG-Project/blob/main/Database.md)
-- [BLK](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#blackrock)
-- [SSB](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#state-street)
-- [JPM](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#jp-morgan)
-- [BNYM](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#bny-mellon)
-- [Citi](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#citi)
+- [BLK](https://github.com/AngelaCheng99/ESG-Project/blob/main/Database.md#blackrock)
+- [SSB](https://github.com/AngelaCheng99/ESG-Project/blob/main/Database.md#state-street)
+- [JPM](https://github.com/AngelaCheng99/ESG-Project/blob/main/Database.md#jp-morgan)
+- [BNYM](https://github.com/AngelaCheng99/ESG-Project/blob/main/Database.md#bny-mellon)
+- [Citi](https://github.com/AngelaCheng99/ESG-Project/blob/main/Database.md#citi)
 
 ## [Wk1 May 27th Research](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#research)
 - [Idea 1: Key Targets & Metrics](https://github.com/AngelaCheng99/ESG-Project/edit/main/README.md#idea-1-look-for-key-targets--metrics)
