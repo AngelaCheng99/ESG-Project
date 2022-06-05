@@ -104,16 +104,16 @@ with pd.ExcelWriter('Frequency Tables.xlsx',engine="openpyxl") as writer:
 #Traceback (most recent call last):
 
   #File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/code.py", line 90, in runcode
-    exec(code, self.locals)
+    #exec(code, self.locals)
   #File "<input>", line 1, in <module>
   #File "/Users/xinyuecheng/PycharmProjects/ESG Project/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 2345, in to_excel
-    formatter.write(
+    #formatter.write(
   #File "/Users/xinyuecheng/PycharmProjects/ESG Project/venv/lib/python3.8/site-packages/pandas/io/formats/excel.py", line 888, in write
-    writer = ExcelWriter(  # type: ignore[abstract]
+    #writer = ExcelWriter(  # type: ignore[abstract]
   #File "/Users/xinyuecheng/PycharmProjects/ESG Project/venv/lib/python3.8/site-packages/pandas/io/excel/_openpyxl.py", line 49, in __init__
-    from openpyxl.workbook import Workbook
+    #from openpyxl.workbook import Workbook
   #File "/Applications/PyCharm CE.app/Contents/plugins/python-ce/helpers/pydev/_pydev_bundle/pydev_import_hook.py", line 21, in do_import
-    module = self._system_import(name, *args, **kwargs)
+    #module = self._system_import(name, *args, **kwargs)
 #ModuleNotFoundError: No module named 'openpyxl'
       
 #Messages in Terminal
