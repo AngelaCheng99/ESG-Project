@@ -15,7 +15,7 @@
 - [Idea 1: Key Targets & Metrics](https://github.com/AngelaCheng99/ESG-Project/blob/main/Wk1.md#idea-1-look-for-key-targets--metrics)
 - [Idea 2: ESG Wordlist](https://github.com/AngelaCheng99/ESG-Project/blob/main/Wk1.md#idea-2-look-for-esg-wordlist-as-described-in-this-research)
 
-### [Wk1 Jun 5th Coding]
+### Wk2 Jun 5th Coding & Keywords
 - [Code for creating a frequency table](https://github.com/AngelaCheng99/ESG-Project/blob/27b5b2ab5d4ead127b1a1632ec2e142a4c279e37/Freq%20Table%20Code.py)
 - [Frequency table for BLK](https://github.com/AngelaCheng99/ESG-Project/blob/main/BLK%20Word%20Freq.csv)
 - [Frequency table for SSB](https://github.com/AngelaCheng99/ESG-Project/blob/main/SSB%20Word%20Freq.csv)
