@@ -82,7 +82,7 @@ rank_jpm_table=freq_jpm_table.sort_values(by="frequency", ascending=False)
 rank_bnym_table=freq_bnym_table.sort_values(by="frequency", ascending=False)
 rank_citi_table=freq_citi_table.sort_values(by="frequency", ascending=False)
 
-print(rank_citi_table)
+print(rank_citi_table) #example output
 
 #Export dataset into csv
 rank_blk_table.to_csv("BLK Word Freq.csv", index=False)
