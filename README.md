@@ -17,4 +17,9 @@
 
 ### [Wk1 Jun 5th Coding]
 - [Code for creating a frequency table](https://github.com/AngelaCheng99/ESG-Project/blob/27b5b2ab5d4ead127b1a1632ec2e142a4c279e37/Freq%20Table%20Code.py)
-- [Frequency table for BLK, SSB, JPM, BNYM and Citi]
+- [Frequency table for BLK]
+- [Frequency table for SSB]
+- [Frequency table for JPM]
+- [Frequency table for BNYM]
+- [Frequency table for Citi]
+
