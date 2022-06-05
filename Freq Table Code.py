@@ -29,7 +29,7 @@ print (raw_blk_text) #example output
 #Sample test of frequency table method
 import re
 import collections
-test="My name is Angela. Angela is learning how to coding."
+test="My name is Angela. Angela is learning how to code."
 lc_test=test.lower()
 test_words=re.findall(r'\b[a-z]{3,15}\b',lc_test)
 f=collections.Counter(test_words)
