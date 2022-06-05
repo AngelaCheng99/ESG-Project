@@ -26,6 +26,15 @@ print (raw_blk_text) #example output
 
 #-------------------------------How to create table for frequency of words -----------------------------------#
 
+#Sample test of frequency table method
+import re
+import collections
+test="My name is Angela. Angela is learning how to coding."
+lc_test=test.lower()
+test_words=re.findall(r'\b[a-z]{3,15}\b',lc_test)
+f=collections.Counter(test_words)
+print(dict(f))  
+
 #convert all text into lower cases
 lc_blk_text=raw_blk_text.lower()
 lc_ssb_text=raw_ssb_text.lower()
@@ -113,5 +122,5 @@ with pd.ExcelWriter('Frequency Tables.xlsx',engine="openpyxl") as writer:
 #Requirement already satisfied: et-xmlfile in /Users/xinyuecheng/opt/anaconda3/lib/python3.8/site-packages (from openpyxl) (1.0.1)
 #Requirement already satisfied: jdcal in /Users/xinyuecheng/opt/anaconda3/lib/python3.8/site-packages (from openpyxl) (1.4.1)
       
-      
+   
       
