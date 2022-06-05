@@ -15,3 +15,6 @@
 - [Idea 1: Key Targets & Metrics](https://github.com/AngelaCheng99/ESG-Project/blob/main/Wk1.md#idea-1-look-for-key-targets--metrics)
 - [Idea 2: ESG Wordlist](https://github.com/AngelaCheng99/ESG-Project/blob/main/Wk1.md#idea-2-look-for-esg-wordlist-as-described-in-this-research)
 
+### [Wk1 Jun 5th Coding]
+- [Code for creating a frequency table]
+- [Frequency table for BLK, SSB, JPM, BNYM and Citi]
