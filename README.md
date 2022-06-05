@@ -20,6 +20,6 @@
 - [Frequency table for BLK]
 - [Frequency table for SSB]
 - [Frequency table for JPM]
-- [Frequency table for BNYM]
+- [Frequency table for BNYM](https://github.com/AngelaCheng99/ESG-Project/blob/main/BNYM%20Word%20Freq.csv)
 - [Frequency table for Citi]
 
