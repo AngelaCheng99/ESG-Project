@@ -21,5 +21,5 @@
 - [Frequency table for SSB](https://github.com/AngelaCheng99/ESG-Project/blob/main/SSB%20Word%20Freq.csv)
 - [Frequency table for JPM](https://github.com/AngelaCheng99/ESG-Project/blob/main/JPM%20Word%20Freq.csv)
 - [Frequency table for BNYM](https://github.com/AngelaCheng99/ESG-Project/blob/main/BNYM%20Word%20Freq.csv)
-- [Frequency table for Citi]((https://github.com/AngelaCheng99/ESG-Project/blob/main/Citi%20Word%20Freq.csv)
+- [Frequency table for Citi](https://github.com/AngelaCheng99/ESG-Project/blob/main/Citi%20Word%20Freq.csv)
 
