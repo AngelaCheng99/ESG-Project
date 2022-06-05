@@ -16,5 +16,5 @@
 - [Idea 2: ESG Wordlist](https://github.com/AngelaCheng99/ESG-Project/blob/main/Wk1.md#idea-2-look-for-esg-wordlist-as-described-in-this-research)
 
 ### [Wk1 Jun 5th Coding]
-- [Code for creating a frequency table]
+- [Code for creating a frequency table](https://github.com/AngelaCheng99/ESG-Project/blob/main/Freq Table Code.py)
 - [Frequency table for BLK, SSB, JPM, BNYM and Citi]
