@@ -17,9 +17,9 @@
 
 ### [Wk1 Jun 5th Coding]
 - [Code for creating a frequency table](https://github.com/AngelaCheng99/ESG-Project/blob/27b5b2ab5d4ead127b1a1632ec2e142a4c279e37/Freq%20Table%20Code.py)
-- [Frequency table for BLK]
-- [Frequency table for SSB]
-- [Frequency table for JPM]
+- [Frequency table for BLK](https://github.com/AngelaCheng99/ESG-Project/blob/main/BLK%20Word%20Freq.csv)
+- [Frequency table for SSB](https://github.com/AngelaCheng99/ESG-Project/blob/main/SSB%20Word%20Freq.csv)
+- [Frequency table for JPM](https://github.com/AngelaCheng99/ESG-Project/blob/main/JPM%20Word%20Freq.csv)
 - [Frequency table for BNYM](https://github.com/AngelaCheng99/ESG-Project/blob/main/BNYM%20Word%20Freq.csv)
-- [Frequency table for Citi]
+- [Frequency table for Citi]((https://github.com/AngelaCheng99/ESG-Project/blob/main/Citi%20Word%20Freq.csv)
 
