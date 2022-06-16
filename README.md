@@ -23,3 +23,8 @@
 - [Frequency table for BNYM](https://github.com/AngelaCheng99/ESG-Project/blob/main/BNYM%20Word%20Freq.csv)
 - [Frequency table for Citi](https://github.com/AngelaCheng99/ESG-Project/blob/main/Citi%20Word%20Freq.csv)
 
+### Wk3 or 4 Jun 16th Coding & Keywords
+- [Code for searching ESG Wordlist through PDF]()
+- [ESG Wordlist original Excel file] ()
+- [ESG Wordlist csv file] ()
+
