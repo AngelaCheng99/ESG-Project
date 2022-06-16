@@ -27,5 +27,5 @@
 - [Code for searching ESG Wordlist through PDF](https://github.com/AngelaCheng99/ESG-Project/blob/main/Clean%20ESG%20Word.py)
 - [ESG Wordlist Author Paper Website with link to Appendix](https://sites.google.com/site/fkieselde/research)
 - [Appendix: ESG Wordlist original Excel file](https://drive.google.com/file/d/1QZo5rCHElHNLHyflFsi5xjum9Oxli5I6/view)
-- [ESG Wordlist csv file](https://github.com/AngelaCheng99/ESG-Project/blob/main/Clean%20ESG%20Word.py)
+- [ESG Wordlist csv file](https://github.com/AngelaCheng99/ESG-Project/blob/main/ESG-Wordlist_2020.csv)
 
