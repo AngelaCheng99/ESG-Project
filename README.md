@@ -25,6 +25,7 @@
 
 ### Wk3 or 4 Jun 16th Coding & Keywords
 - [Code for searching ESG Wordlist through PDF]()
-- [ESG Wordlist original Excel file] ()
+- [ESG Wordlist Author Paper Website with link to Appendix](https://sites.google.com/site/fkieselde/research)
+- [Appendix: ESG Wordlist original Excel file](https://drive.google.com/file/d/1QZo5rCHElHNLHyflFsi5xjum9Oxli5I6/view)
 - [ESG Wordlist csv file] ()
 
