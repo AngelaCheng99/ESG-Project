@@ -30,7 +30,7 @@
 - [ESG Wordlist csv file](https://github.com/AngelaCheng99/ESG-Project/blob/main/ESG-Wordlist_2020.csv)
 
 ### Wk5 Jun 26th Loops and Functions
-- [Write a function to loop through 1 list of keywords - Faster Version]()
+- [Write a function to loop through 1 list of keywords - Faster Version](https://github.com/AngelaCheng99/ESG-Project/blob/main/Page%20Number.py)
 
 ### Wk6 July 3rd Loops and Functions
 - [Write a function to loop through 3 lists of keywords - Raw Version]()
