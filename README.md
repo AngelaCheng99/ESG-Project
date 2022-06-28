@@ -33,4 +33,4 @@
 - [Write a function to loop through 1 list of keywords - Faster Version](https://github.com/AngelaCheng99/ESG-Project/blob/main/Page%20Number.py)
 
 ### Wk6 July 3rd Loops and Functions
-- [Write a function to loop through 3 lists of keywords - Raw Version]()
+- [Write a function to loop through 3 lists of keywords - Raw Version](https://github.com/AngelaCheng99/ESG-Project/blob/main/Page%20Number%20v2.py)
